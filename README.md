@@ -1,4 +1,4 @@
-# QA_DEMO: Web Interface for Question Answering System
+Web Interface for Question Answering System
 
 A Question Answering Interface, based on the cdQA library.
 
@@ -6,7 +6,7 @@ A Question Answering Interface, based on the cdQA library.
 
 ### From source 
 ```
-git clone git@bitbucket.org:iobotguys/svc-qa-demo.git  
+git clone git@github.com:gandalf012/DistilBert-question-answering-system.git
 cd qa_demo
 
 pip install -r requirements.txt
