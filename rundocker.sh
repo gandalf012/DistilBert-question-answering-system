@@ -1,0 +1,1 @@
+docker run -p 8501:8501 -e PYTORCH_TRANSFORMERS_CACHE=/tmp svc-qa-demo:latest streamlit run qa_interface.py
